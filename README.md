@@ -94,9 +94,9 @@ npx stylelint "**/*.{css,scss}"
 
 ## Author
 
-* Github: @Abdessittir
-* Twitter: @AbdessittirHar1
-* LinkedIn: [Abdessittir](https://www.linkedin.com/in/abdessittir-harkati-a61b7324a/)
+* GitHub: [@Abdessittir](https://github.com/Abdessittir)
+* Twitter: [@AbdessittirHar1](https://twitter.com/AbdessittirHar1)
+* LinkedIn: [Abdessittir Harkati](https://www.linkedin.com/in/abdessittir-harkati-a61b7324a/)
 
 ## Contributing
 
